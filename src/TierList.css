@@ -12,6 +12,12 @@ h1 {
   color: white;
 }
 
+#wrapper {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .tier-section {
   display: flex;
   border: 5px solid black;
